@@ -1,6 +1,7 @@
+# 🚆 Automated Train Scheduling & Routing using Reinforcement Learning
+
 # Wabtech-Hackathon
 
-# 🚆 Automated Train Scheduling & Routing using Reinforcement Learning
 
 This project presents an AI-driven approach to optimize railway scheduling and routing using Reinforcement Learning. It was developed as part of a national-level hackathon hosted by Wabtec Corporation, where it earned **1st Runner-Up** honors. The model dynamically adapts to real-time factors like weather, passenger demand, track availability, and disruptions—drastically improving operational efficiency and reducing delays in train systems.
 
